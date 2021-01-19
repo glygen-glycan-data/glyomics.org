@@ -1,4 +1,4 @@
-Services provided under the [glyomics.org](glyomics.org) domain:
+Services provided under the [glyomics.org](https://glyomics.org) domain:
 
 * [GNOme](https://gnome.glyomics.org) - Glycan Naming and Subsumption Onotology.
 * [GlycoMotif](https://glycomotif.glyomics.org) - Curated glycan motifs and alignments.
