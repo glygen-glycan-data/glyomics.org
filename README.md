@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Glyomics.org
 
-You can use the [editor on GitHub](https://github.com/glygen-glycan-data/glyomics.org/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Services provided under the glyomics.org banner:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [GNOme](https://gnome.glyomics.org) - Glycan Naming and Subsumption Onotology.
+* [GlycoMotif](https://glycomotif.glyomics.org) - Curated glycan motifs and alignments.
+* [GlycanData](https://glycans.glyomics.org) - Data-integration of glycan data for GlyGen.
+* [GPTwiki]](https://gptwiki.glyomics.org) - Database of glycopeptide transitions for LC/MS quanitation workflows.
+* [Glycan Image Extractor](https://extractor.glyomics.org) - Extract glycans from manuscripts and images.
+* [GlyLookup](https://glylookup.glyomics.org) - Glycan sequence to GlyTouCan accession lookup webservice.
 
-### Markdown
+### Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/glygen-glycan-data/glyomics.org/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please submit issues, suggestions, corrections to the [issue tracker](https://github.com/glygen-glycan-data/glyomics.org/issues).  
