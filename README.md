@@ -5,7 +5,8 @@ Services provided under the [glyomics.org](https://glyomics.org) domain:
 * [GlycanData](https://glycans.glyomics.org) - Data-integration of glycan data for GlyGen.
 * [GPTwiki](https://gptwiki.glyomics.org) - Database of glycopeptide transitions for LC/MS quanitation workflows.
 * [Glycan Image Extractor](https://extractor.glyomics.org) - Extract glycans from manuscripts and images.
-* [GlyLookup](https://glylookup.glyomics.org) - Glycan sequence to GlyTouCan accession lookup webservice.
+* [GlyLookup](https://glylookup.glyomics.org) - Webservice for mapping glycan sequences (GlycoCT, WURCS) to GlyTouCan accessions.
+* [MotifMatch](https://motifmatch.glyomics.org) - Webservice for aligning glycan sequences (GlycoCT, WURCS) to GlycoMotif motifs.
 
 ### Contact
 
