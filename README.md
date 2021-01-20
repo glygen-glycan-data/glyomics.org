@@ -12,7 +12,7 @@ Services provided under the [glyomics.org](https://glyomics.org) domain:
 
 ### About
 
-Projects hosted on glyomics.org are developed as part of the [GlyGen: Computational and Informatics Resources for Glycoscience project](http://glygen.org).
+Projects hosted on glyomics.org are developed as part of the [GlyGen: Computational and Informatics Resources for Glycoscience](http://glygen.org) project.
 
 #### Funding
 
