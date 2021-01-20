@@ -14,13 +14,11 @@ Services provided under the [glyomics.org](https://glyomics.org) domain:
 
 Projects hosted on glyomics.org are developed as part of the [GlyGen: Computational and Informatics Resources for Glycoscience project](http://glygen.org).
 
-#### Comments, Questions?
-
-Please contact Nathan Edwards at nje5@georgetown.edu or submit issues, suggestions, corrections to the [issue tracker](https://github.com/glygen-glycan-data/glyomics.org/issues).  
-
 #### Funding
 
 Projects hosted on glyomics.org are supported by the NIH Glycoscience Common Fund as part of the GlyGen project. 
 
-### Contact
+#### Comments, Questions?
+
+Please contact Nathan Edwards at nje5@georgetown.edu or submit issues, suggestions, corrections to the [issue tracker](https://github.com/glygen-glycan-data/glyomics.org/issues).  
 
