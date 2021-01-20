@@ -20,5 +20,5 @@ Projects hosted on glyomics.org are supported by the NIH Glycoscience Common Fun
 
 #### Comments, Questions?
 
-Please contact Nathan Edwards at nje5@georgetown.edu or submit issues, suggestions, corrections to the [issue tracker](https://github.com/glygen-glycan-data/glyomics.org/issues).  
+Please contact Nathan Edwards at nje5@georgetown.edu and/or submit issues, suggestions, corrections to the [issue tracker](https://github.com/glygen-glycan-data/glyomics.org/issues).  
 
