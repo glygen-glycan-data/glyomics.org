@@ -10,6 +10,17 @@ Services provided under the [glyomics.org](https://glyomics.org) domain:
 * [Subsumption](https://subsumption.glyomics.org) - Webservice for on-demand determination of subsumption relationships for glycan structures (GlycoCT or WURCS format) with respect to GlyTouCan glycans.
 * [Motif Matcher](https://motifmatch.glyomics.org) - Webservice for on-demand alignment of glycan structures (GlycoCT or WURCS format) with GlycoMotif motifs.
 
+### About
+
+Projects hosted on glyomics.org are developed as part of the [GlyGen: Computational and Informatics Resources for Glycoscience project](http://glygen.org).
+
+#### Comments, Questions?
+
+Please contact Nathan Edwards at nje5@georgetown.edu or submit issues, suggestions, corrections to the [issue tracker](https://github.com/glygen-glycan-data/glyomics.org/issues).  
+
+#### Funding
+
+Projects hosted on glyomics.org are supported by the NIH Glycoscience Common Fund as part of the GlyGen project. 
+
 ### Contact
 
-Please submit issues, suggestions, corrections to the [issue tracker](https://github.com/glygen-glycan-data/glyomics.org/issues).  
