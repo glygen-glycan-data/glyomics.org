@@ -10,6 +10,7 @@ Services provided under the [glyomics.org](https://glyomics.org) domain:
 * [Subsumption](https://subsumption.glyomics.org) - Webservice for on-demand determination of subsumption relationships for glycan structures (GlycoCT or WURCS format) with respect to GlyTouCan glycans. [BETA]
 * [Motif Matcher](https://motifmatch.glyomics.org) - Webservice for on-demand alignment of glycan structures (GlycoCT or WURCS format) with GlycoMotif motifs. [BETA]
 * [Glymage](https://glymage.glyomics.org) - Webservice for static glycan image serving and on-demand image generation for glycan structures (GlycoCT or WURCS format), GlyTouCan accessions, or previously observed glycan structure (GlycoCT or WURCS format) md5 hashes. [BETA]
+* [Converter](https://converter.glyomics.org) - Webservice for converting GlycoCT and WURCS glycan sequences to IUPAC and other glycan sequences. [BETA]
 
 ### About
 
