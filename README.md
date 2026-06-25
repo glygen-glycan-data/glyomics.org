@@ -10,7 +10,7 @@ Services provided under the [glyomics.org](https://glyomics.org) domain:
 * [Motif Matcher](https://motifmatch.glyomics.org) - Webservice for on-demand alignment of glycan structures (GlycoCT or WURCS format) with GlycoMotif motifs.
 * [Glymage](https://glymage.glyomics.org) - Webservice for static glycan image serving and on-demand image generation for glycan structures (GlycoCT or WURCS format), GlyTouCan accessions, or previously observed glycan structure (GlycoCT or WURCS format) md5 hashes.
 * [Converter](https://converter.glyomics.org) - Webservice for converting GlycoCT and WURCS glycan sequences to IUPAC and other glycan sequences.
-* [Register](https://register.glyomics.org) - Webservice for registering GlycoCT and WURCS glycan sequences with GlyTouCan.
+
 
 ### About
 
